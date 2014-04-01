@@ -1,0 +1,44 @@
+﻿2013/05/08 15:51:10 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Admin\Documents\Research\FDTDSimulator\FDTDSimulator\FDTDSimulator.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\FDTDSimulator.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Simulator.cpp
+         Simulator.cpp
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Documents\Research\FDTDSimulator\Debug\FDTDSimulator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FDTDSimulator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Admin\Documents\Research\FDTDSimulator\Debug\FDTDSimulator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Documents\Research\FDTDSimulator\Debug\FDTDSimulator.lib" /MACHINE:X86 Debug\FDTDSimulator.exe.embed.manifest.res
+         Debug\EventState.obj
+         Debug\FDTD.obj
+         Debug\FDTD_TE.obj
+         Debug\FDTD_TM.obj
+         Debug\Field.obj
+         Debug\LightSource.obj
+         Debug\main.obj
+         Debug\MenuWindow.obj
+         Debug\Model.obj
+         Debug\NsFDTD.obj
+         Debug\NsFDTD_TE.obj
+         Debug\NsFDTD_TM.obj
+         Debug\Object.obj
+         Debug\Simulator.obj
+         Debug\Solver.obj
+         Debug\StFDTD.obj
+         Debug\StFDTD_TE.obj
+         Debug\StFDTD_TM.obj
+         Debug\Vec.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FDTDSimulator.exe.embed.manifest" /manifest Debug\FDTDSimulator.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         FDTDSimulator.vcxproj -> C:\Users\Admin\Documents\Research\FDTDSimulator\Debug\FDTDSimulator.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\FDTDSimulator.unsuccessfulbuild" を削除しています。
+         "Debug\FDTDSimulator.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Admin\Documents\Research\FDTDSimulator\FDTDSimulator\FDTDSimulator.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.52
